@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ConsoleAppProject/1.0.0": {
+        "dependencies": {
+          "Dapper": "2.1.66",
+          "Microsoft.DotNet.ILCompiler": "9.0.6",
+          "Microsoft.NET.ILLink.Tasks": "9.0.6"
+        },
+        "runtime": {
+          "ConsoleAppProject.dll": {}
+        }
+      },
+      "Dapper/2.1.66": {
+        "runtime": {
+          "lib/net8.0/Dapper.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.1.66.48463"
+          }
+        }
+      },
+      "Microsoft.DotNet.ILCompiler/9.0.6": {},
+      "Microsoft.NET.ILLink.Tasks/9.0.6": {}
+    }
+  },
+  "libraries": {
+    "ConsoleAppProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dapper/2.1.66": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/q77jUgDOS+bzkmk3Vy9SiWMaetTw+NOoPAV0xPBsGVAyljd5S6P+4RUW7R3ZUGGr9lDRyPKgAMj2UAOwvqZYw==",
+      "path": "dapper/2.1.66",
+      "hashPath": "dapper.2.1.66.nupkg.sha512"
+    },
+    "Microsoft.DotNet.ILCompiler/9.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-O7Row/kOgEA3PXpeCVKpDJ9ooAoJDoKoxpZC86voOAwV2NA1jTbQ0Nn0VCuoTT/IvU0T7YNlPldAS0mOrppXmw==",
+      "path": "microsoft.dotnet.ilcompiler/9.0.6",
+      "hashPath": "microsoft.dotnet.ilcompiler.9.0.6.nupkg.sha512"
+    },
+    "Microsoft.NET.ILLink.Tasks/9.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TXy3SbJzGXQbxxIxCjdrp8bwEyTDImyYNpTpd6v7P3JL2Y7dno8EYG7dPezfYTa5SoWKdhbH9cbnwHHs3BR5gA==",
+      "path": "microsoft.net.illink.tasks/9.0.6",
+      "hashPath": "microsoft.net.illink.tasks.9.0.6.nupkg.sha512"
+    }
+  }
+}

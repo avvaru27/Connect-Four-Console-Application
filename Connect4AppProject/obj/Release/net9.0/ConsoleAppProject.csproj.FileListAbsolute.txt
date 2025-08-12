@@ -1,0 +1,17 @@
+/Users/pranayavvaru/RiderProjects/ConsoleApp/ConsoleAppProject/bin/Release/net9.0/ConsoleAppProject
+/Users/pranayavvaru/RiderProjects/ConsoleApp/ConsoleAppProject/bin/Release/net9.0/ConsoleAppProject.deps.json
+/Users/pranayavvaru/RiderProjects/ConsoleApp/ConsoleAppProject/bin/Release/net9.0/ConsoleAppProject.runtimeconfig.json
+/Users/pranayavvaru/RiderProjects/ConsoleApp/ConsoleAppProject/bin/Release/net9.0/ConsoleAppProject.dll
+/Users/pranayavvaru/RiderProjects/ConsoleApp/ConsoleAppProject/bin/Release/net9.0/ConsoleAppProject.pdb
+/Users/pranayavvaru/RiderProjects/ConsoleApp/ConsoleAppProject/bin/Release/net9.0/Dapper.dll
+/Users/pranayavvaru/RiderProjects/ConsoleApp/ConsoleAppProject/obj/Release/net9.0/ConsoleAppProject.csproj.AssemblyReference.cache
+/Users/pranayavvaru/RiderProjects/ConsoleApp/ConsoleAppProject/obj/Release/net9.0/ConsoleAppProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pranayavvaru/RiderProjects/ConsoleApp/ConsoleAppProject/obj/Release/net9.0/ConsoleAppProject.AssemblyInfoInputs.cache
+/Users/pranayavvaru/RiderProjects/ConsoleApp/ConsoleAppProject/obj/Release/net9.0/ConsoleAppProject.AssemblyInfo.cs
+/Users/pranayavvaru/RiderProjects/ConsoleApp/ConsoleAppProject/obj/Release/net9.0/ConsoleAppProject.csproj.CoreCompileInputs.cache
+/Users/pranayavvaru/RiderProjects/ConsoleApp/ConsoleAppProject/obj/Release/net9.0/ConsoleA.6C8EF939.Up2Date
+/Users/pranayavvaru/RiderProjects/ConsoleApp/ConsoleAppProject/obj/Release/net9.0/ConsoleAppProject.dll
+/Users/pranayavvaru/RiderProjects/ConsoleApp/ConsoleAppProject/obj/Release/net9.0/refint/ConsoleAppProject.dll
+/Users/pranayavvaru/RiderProjects/ConsoleApp/ConsoleAppProject/obj/Release/net9.0/ConsoleAppProject.pdb
+/Users/pranayavvaru/RiderProjects/ConsoleApp/ConsoleAppProject/obj/Release/net9.0/ConsoleAppProject.genruntimeconfig.cache
+/Users/pranayavvaru/RiderProjects/ConsoleApp/ConsoleAppProject/obj/Release/net9.0/ref/ConsoleAppProject.dll

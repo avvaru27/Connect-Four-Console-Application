@@ -1,0 +1,1 @@
+/Users/pranayavvaru/RiderProjects/ConsoleApp/ConsoleAppProject/bin/Release/net9.0/osx-arm64/publish/ConsoleAppProject
